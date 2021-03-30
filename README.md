@@ -1,11 +1,37 @@
 # reading-notes
+![Hello](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Hello_%28yellow%29.svg/1200px-Hello_%28yellow%29.svg.png)
 
-Iam Summarized the PDF file (article name:Choosing A Text Editor)
-There are many tybe of text editor for coding and the best tybe depend on the person what he prefers,so we can say the text editor its a tool we can through it write and build the website.If any one to use a text editor should find some of these charactreistic like :1.) code completion(this is the greatest one); 2.) syntax highlighting(this feature help us to making our text easier to read) and so on all these tybes have almost the same features in addition to we can add some extintions to these tybe.
+So I will talk here about something called **Growth Mindset:**
 
-The next article talk about the command line(terminal) , at the first view you will see something new and difficult but with the time everything be easy briefly we can say the terminal is interface can we wirte throught it a text."Typically a command is always the first thing you type".After you running the command the output will appear,then the prompt appear again if you ant text more command,note:opening the terminal different from system to other.other thing we should know terminal have something called shell this defines as how the terminal behave.
+To briefly sum up the findings,individuals who believe their talents can be developed (through hard work, good strategies, and input from others) have a growth mindset. They tend to achieve more than those with a more fixed mindset (those who believe their talents are innate gifts). This is because they worry less about looking smart and they put more energy into learning.
 
-The following article I review it talk about basic navigation this part we can through it moving in the system so the first command we can use it allows us to print working directory and the abbreviation of it :pwd.The second one can help us to list the contents of a directory and the abbreviation of it:ls.Also we can use command something to Change Directories by this abbreviation :cd . so we have more and more command wwe can use .
+In contrast, people at primarily fixed-mindset companies report more of only one thing: cheating and deception among employees, presumably to gain an advantage in the talent race.
 
-The final article talk about more about files in general we should know briefly that everythings is a file.every files have a path following the point this path to determine the tybe of the file,so we can use a command allow us to know the tybe of the file so we can writhe this in the terminal :file [path].In additon to we can use spaces between files.Also we can use the quotes so anything inside quotes is considered a single item.Moreover we can use character called escape character(\)this used repeal the special meaning of the next character.Finally we can use command to list the contents of a directory, including hidden files,bu write:ls -a(file name).
+![growthmindset](https://www.lifeskillsgroup.com.au/hs-fs/hubfs/growth%20mindset-2.png?width=530&name=growth%20mindset-2.png)
 
+## ***Reminder my self***
+This part I put it here to give my self a continuous motiviations :
+
+1. **Challenges**
+* The best way to beat the odds is to break through.
+* Do not challenge a person who has nothing to lose.
+* When we lose hope in changing reality, the biggest challenge is our ability to change ourselves.
+
+![challenges](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaBxgIyI_Ps8O2fZwO-_5bapPi8UVYYVLEHw&usqp=CAU)
+
+2.**Obstacles**
+
+* The big obstacle to reaching happiness is great happiness waiting for us.
+* The most solid obstacle in the world is the obstacle between one person’s thinking and another’s thinking.
+![obstacles](https://hatrabbits.com/wp-content/uploads/2018/04/embrace-obstacles2.jpg)
+
+3.**Effort**
+
+* A life that we do not undergo research and study is not worth living.
+* By working hard eight hours a day, you can someday become a manager and work an hour a day.
+![Effort](https://cdn3.vectorstock.com/i/1000x1000/71/57/effort-business-concept-vector-13477157.jpg)
+
+## ***About me***
+My name is Awon Khrais I am graduated as a civil engineer before two years ,I am very excited about this experience and very happy to be as software developer.
+
+My Github account : [Github account](https://github.com/Awonkhrais)
