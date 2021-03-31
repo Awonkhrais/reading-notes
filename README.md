@@ -13,23 +13,4 @@ This is a table content contain about each section :
 |4      |[ Read: 03 - Structure web pages with HTML](read03.md)
 
 
-> dragonfly
-
-& dragonfly
-
-& dragonfly
-dragonfly
-
-`dragonfly`
-
-*realmadrid*
-
--
-+
-
-### Second-level Header Text
-Some verbiage with 
-*very exciting language*
- language in it!
-
  [GitHub](https://github.com/)
