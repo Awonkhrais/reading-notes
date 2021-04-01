@@ -10,7 +10,8 @@ This is a table content contain about each section :
 |1      |[what is growth mindset](file1.md)
 |2      |[reminder for m self](file2.md)
 |3      |[about me](file3.md)
-|4      |[ Read: 03 - Structure web pages with HTML](read03.md)
+|4      |[ Read: 03 - Structure web pages with HTML](read03.md)|
+|5      |[Read: 04-Programming with JavaScript](read04.md)|
 
 
  [GitHub](https://github.com/)
