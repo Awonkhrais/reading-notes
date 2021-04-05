@@ -11,6 +11,7 @@ This is a table content contain about a summary of each reading assignment :
 |4      |[Read: 03 - Structure web pages with HTML](read03.md)|
 |5      |[Read: 04-Programming with JavaScript](read04.md)|
 |6      |[Read: 05 - Operators and Loops](read05.md)
+|7      |[Read: 06 -  Design web pages with CSS](read06.md)
 
 [GitHub](https://github.com/)
 
