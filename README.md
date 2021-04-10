@@ -20,7 +20,7 @@ This is a table content contain about a summary of each reading assignment :
 
 |Section|Title for code 201 |
 |-------|-----|
-|1      |
+|1      |[Read: 01 - Introductory HTML and JavaScript](/code201/read01.md)|
 |2      |
 |3      |
 |4      |
