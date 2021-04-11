@@ -27,3 +27,11 @@ This is a table content contain about a summary of each reading assignment :
 |5      |
 |6      |
 |7      |
+|8      |
+|9      |
+|10     |
+|11     |
+|12     |
+|13     |
+|14     |
+|15     |
