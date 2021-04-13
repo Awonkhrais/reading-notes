@@ -23,7 +23,7 @@ This is a table content contain about a summary of each reading assignment :
 |1      |[Read: 01 - Introductory HTML and JavaScript](/code201/read01.md)|
 |2      |[Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](/code201/read02.md)
 |3      |[Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](/code201/read03.md)
-|4      |
+|4      |[Read: 04 - HTML Links, CSS Layout, JS Functions](/code201/read04.md)
 |5      |
 |6      |
 |7      |
