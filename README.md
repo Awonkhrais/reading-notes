@@ -24,7 +24,7 @@ This is a table content contain about a summary of each reading assignment :
 |2      |[Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](/code201/read02.md)
 |3      |[Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](/code201/read03.md)
 |4      |[Read: 04 - HTML Links, CSS Layout, JS Functions](/code201/read04.md)
-|5      |
+|5      |[Read: 05 - HTML Images; CSS Color & Text](/code201/read05.md)
 |6      |
 |7      |
 |8      |
