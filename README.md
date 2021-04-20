@@ -28,7 +28,7 @@ This is a table content contain about a summary of each reading assignment :
 |6      |[Read: 06 - JS Object Literals; The DOM0](/code201/read06.md)
 |7      |[Read: 07 - HTML Tables; JS Constructor Functions](/code201/read07.md)
 |8      |[Read: 08 - More CSS Layou](/code201/read08.md)
-|9      |
+|9      |[Read: 09 - Forms and Events](/code201/read09.md)
 |10     |
 |11     |
 |12     |
