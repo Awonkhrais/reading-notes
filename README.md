@@ -32,6 +32,6 @@ This is a table content contain about a summary of each reading assignment :
 |10     |[Read: 10 - JS Debugging](/code201/read10.md)
 |11     |[Read: 11 - Assorted Topics](/code201/read11.md)
 |12     |[Read: 12]((/code201/read12.md))
-|13     |
+|13     |[Read: 13 - Local Storage](/code201/read13.md)
 |14     |
 |15     |
