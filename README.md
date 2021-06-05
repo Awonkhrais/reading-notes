@@ -3,7 +3,7 @@
 
 This is a table content contain about a summary of each reading assignment :
 
-## **Code102**
+## **Code102 : Intro to Software Development**
 
 |Section|Title for code 102 |
 |-------|-----|
@@ -16,7 +16,7 @@ This is a table content contain about a summary of each reading assignment :
 |7      |[Read: 06 -  Design web pages with CSS](code102/read06.md)
 
 
-## **Code201**
+## **Code201 : Foundations of Software Development**
 
 |Section|Title for code 201 |
 |-------|-----|
@@ -35,3 +35,24 @@ This is a table content contain about a summary of each reading assignment :
 |13     |[Read: 13 - Local Storage](/code201/read13.md)
 |14     |[Read: 14a - CSS Transforms, Transitions, and Animations](/code201/read14a.md)
 |15     |[Read: 14b - What Google Learned About Teams](/code201/read14b.md)
+
+
+## **Code301 : Intermediate Software Development**
+
+|Section|Title for code 301 |
+|-------|-----|
+|1      |[Read: 01 - Introduction to React and Components](/code301/read01.md)|
+|2      ||
+|3      ||
+|4      ||
+|5      ||
+|6      ||
+|7      ||
+|8      ||
+|9      ||
+|10     ||
+|11     ||
+|12     ||
+|13     ||
+|14     ||
+|15     ||
