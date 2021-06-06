@@ -42,7 +42,7 @@ This is a table content contain about a summary of each reading assignment :
 |Section|Title for code 301 |
 |-------|-----|
 |1      |[Read: 01 - Introduction to React and Components](/code301/read01.md)|
-|2      ||
+|2      |[Read: 02 - State and Props](/code301/read02.md)|
 |3      ||
 |4      ||
 |5      ||
