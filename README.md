@@ -44,7 +44,7 @@ This is a table content contain about a summary of each reading assignment :
 |1      |[Read: 01 - Introduction to React and Components](/code301/read01.md)|
 |2      |[Read: 02 - State and Props](/code301/read02.md)|
 |3      |[Read: 03 - Passing Functions as Props](/code301/read03.md)|
-|4      ||
+|4      |[Read: 04 - Readings: React and Forms](/code301/read04.md)|
 |5      ||
 |6      ||
 |7      ||
