@@ -45,7 +45,7 @@ This is a table content contain about a summary of each reading assignment :
 |2      |[Read: 02 - State and Props](/code301/read02.md)|
 |3      |[Read: 03 - Passing Functions as Props](/code301/read03.md)|
 |4      |[Read: 04 - Readings: React and Forms](/code301/read04.md)|
-|5      ||
+|5      |[Read: 05 - React Dos - Thinking in React](/code301/read05.md)|
 |6      ||
 |7      ||
 |8      ||
