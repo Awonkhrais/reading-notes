@@ -47,7 +47,7 @@ This is a table content contain about a summary of each reading assignment :
 |4      |[Read: 04 - Readings: React and Forms](/code301/read04.md)|
 |5      |[Read: 05 - React Dos - Thinking in React](/code301/read05.md)|
 |6      |[Read: 06 - NODE.JS](/code301/read06.md)|
-|7      ||
+|7      |[Read: 07 - REST](/code301/read07.md)|
 |8      ||
 |9      ||
 |10     ||
