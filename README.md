@@ -48,8 +48,8 @@ This is a table content contain about a summary of each reading assignment :
 |5      |[Read: 05 - React Dos - Thinking in React](/code301/read05.md)|
 |6      |[Read: 06 - NODE.JS](/code301/read06.md)|
 |7      |[Read: 07 - REST](/code301/read07.md)|
-|8      ||
-|9      ||
+|8      |[Read: 08 - APIs](/code301/read08.md)|
+|9      |[Read: 09 - FUNCTIONAL PROGRAMMING](/code301/read09.md)|
 |10     ||
 |11     ||
 |12     ||
