@@ -53,6 +53,6 @@ This is a table content contain about a summary of each reading assignment :
 |10     |[Read: 10 - In memory storage](/code301/read10.md)|
 |11     |[Read: 11 - Authentication](/code301/read11.md)|
 |12     |[Read: 12 - Mongo and Mongoose](/code301/read12.md)|
-|13     ||
+|13     |[Read: 13 - CRUD](/code301/read13.md)|
 |14     ||
 |15     ||
