@@ -12,6 +12,8 @@
 
 4. What is the purpose of a key? **a key is a string attribite you need in order to create a list of elements. It helps react identify what items have changed, added , or removed.**
 
+![key](./key.PNG)
+
 ## The Spread Operator
 
 1. What is the spread operator? **The spread operator is a quick useful syntax to modify your array. You can add items to your arrays, combine arrays or objects, and spread out an array into function arguments.**

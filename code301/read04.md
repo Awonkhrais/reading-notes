@@ -14,6 +14,10 @@ I feel that it is better to have a controlled component and for the form to upda
 
 To target a users interaction with an input field you can use attributes to target the specific element, then you can use the event handler to handle that target event. 
 
+By using value attributes that have a value in the state, then saving the targeted ``value`` in the state ``{value: event.target.value}``
+
+
+
 ## The Conditional (Ternary) Operator Explained
 
 ### 1.Why would we use a ternary operator? 

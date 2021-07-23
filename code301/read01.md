@@ -4,7 +4,9 @@
 
 ## Component Based Architecture :
 
-A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
+A component is a set of code that have it's own methods and properties and that can be reused and exported with other applications.
+
+
 
 Characteristics of Components :
 
@@ -41,7 +43,7 @@ The advantages of using component based architecture :
 
 ## What is Props and How to Use it in React
 
-**React is a component-based library** which divides the UI into little reusable pieces. In some cases, those components need to communicate (send data to each other) and the way to pass data between components is by using **props.**
+In some cases,components need to communicate (send data to each other) and the way to pass data between components is by using **props.**
 
 **“Props”** is a special keyword in React, which stands for **properties** and is being used for **passing data from one component to another.**
 
@@ -52,6 +54,8 @@ Furthermore, **props data is read-only,** which means that data coming from the 
 
 ![props](https://www.techdiagonal.com/wp-content/uploads/2019/09/react-props-blog-image-design.jpg)
 
+
+![propsVSstate](https://ihatetomatoes.net/wp-content/uploads/2017/08/03-state-vs-props.png)
 
 ## Article - React Tutorial through 'Passing Data Through Props
 
@@ -84,9 +88,13 @@ Here, ShoppingList is a **React component class**, or **React component type.** 
 
 ## Article - Introducing JSX - React
 
+**is a syntax extension to javascript used in ReactJS that allows writing javascript that looks similar to HTML**
+
 * JSX is a syntax extension to JavaScript.
 * JSX produces React "elements".
 * JSX isn't required but it is helpful when needing a visual aid when working with UI inside of JavaScript code.
 * JSX allows React to show more useful error and warning messages.
 
 ```## Things I want to know more about```
+
+![JSX](./JSX.PNG)
