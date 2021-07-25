@@ -1,5 +1,6 @@
-# reading-notes
-![Hello](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Hello_%28yellow%29.svg/1200px-Hello_%28yellow%29.svg.png)
+# Reading Notes
+
+This website is dedicated to my reading notes while attending Code Fellows courses.
 
 This is a table content contain about a summary of each reading assignment :
 
@@ -63,8 +64,8 @@ This is a table content contain about a summary of each reading assignment :
 
 |Section|Title for code 401 |
 |-------|-----|
-|1      ||
-|2      ||
+|1      |[Read 01 ](./code401/read01.md)|
+|2      |[Read 02 ](./code401/read02.md)|
 |3      ||
 |4      ||
 |5      ||
