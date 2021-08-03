@@ -72,7 +72,7 @@ This is a table content contain about a summary of each reading assignment :
 |6      |[Read 06 ](./code401/read06.md)|
 |7      |[Read 07 ](./code401/read07.md)|
 |8      |[Read 08 ](./code401/read08.md)|
-|9      ||
+|9      |[Read 09 ](./code401/read09.md)|
 |10     ||
 |11     ||
 |12     ||
