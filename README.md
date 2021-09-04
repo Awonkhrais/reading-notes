@@ -88,7 +88,7 @@ This is a table content contain about a summary of each reading assignment :
 |23     |[Read 28 ](./code401/read28.md)|
 |24     |[Read 29 ](./code401/read29.md)|
 |25     |[Read 30 ](./code401/read30.md)|
-|26     ||
+|26     |[Read 31 ](./code401/read31.md)|
 |27     ||
 |28     ||
 |29     ||
