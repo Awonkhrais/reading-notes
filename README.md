@@ -98,8 +98,8 @@ This is a table content contain about a summary of each reading assignment :
 |33     |[Read 38 ](./code401/read38.md)|
 |34     |[Read 39 ](./code401/read39.md)|
 |35     |[Read 41 ](./code401/read41.md)|
-|36     ||
-|37     ||
+|36     |[Read 42 ](./code401/read42_Pythonisms.md)|
+|37     |[Read 42 ](./code401/read42ethics.md)|
 |38     ||
 |39     ||
 |40     ||
