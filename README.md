@@ -100,7 +100,7 @@ This is a table content contain about a summary of each reading assignment :
 |35     |[Read 41 ](./code401/read41.md)|
 |36     |[Read 42 ](./code401/read42_Pythonisms.md)|
 |37     |[Read 42 ](./code401/read42ethics.md)|
-|38     ||
+|38     |[Read 43 ](./code401/read43.md)|
 |39     ||
 |40     ||
 |41     ||
